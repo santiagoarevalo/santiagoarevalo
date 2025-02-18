@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Santiago Arévalo</h1>
-<h3 align="center">I am a DevOps, CI/CD and QA Automation enthusiast.</h3>
+<h3 align="center">I am a DevOps, Data and QA Automation enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoarevalo&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoarevalo" /> </p>
 
 - 🔭 I’m currently working on [Continuous Integration Project](https://github.com/santiagoarevalo/ci-github-2024-1)
 
-- 🌱 I’m currently learning **about DevOps and CI/CD**
+- 🌱 I’m currently learning and growing in the world of **Data Engineering and MLOps**
 
-- 👯 I’m looking to collaborate on **DevOps and QA Automation projects**
+- 👯 I’m looking to collaborate on **Data and MLOps projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santiagoarevalo/](https://github.com/santiagoarevalo/)
 
-- 💬 Ask me about **Java, SpringBoot, Python, HTML, CSS and Liquid.**
+- 💬 Ask me about **Java (SpringBoot), Python, Airflow, HTML, CSS and Liquid.**
 
 - 📫 How to reach me **santiagoarevalovalencia@gmail.com**
 
